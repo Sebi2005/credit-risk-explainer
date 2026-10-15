@@ -1,0 +1,9 @@
+# Runtime dependencies. Use the training environment's scikit-learn version
+# when loading your existing model artifact; this is not a version lockfile.
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+shap
+langchain-openai
